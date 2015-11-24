@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Student of SCS
 
-### More Information
+### Favorites
 
-A place to include any other types of information that you'd like to include about yourself.
+* Hobby: making miniatures
+* Game: League of Legends
+* Celebrity: Aoi Yu
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[gilbertkim@seouchristian.org](gilbertkim@seouchristian.org)
