@@ -1,10 +1,4 @@
----
-layout: page
-title: About
-permalink: /about/
----
 
-<<<<<<< HEAD
 A teenager living in Seoul, Korea
 
 ## Favorites
