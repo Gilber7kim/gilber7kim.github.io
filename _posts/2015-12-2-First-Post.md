@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Security Self-Assessment
+title: First Post
 ---
 
 Hallo! My name is Gilbert Kim, and my Korean name is Kim Jong Hyun.
