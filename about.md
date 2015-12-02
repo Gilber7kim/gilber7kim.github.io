@@ -1,3 +1,8 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
 
 A teenager living in Seoul, Korea
 
