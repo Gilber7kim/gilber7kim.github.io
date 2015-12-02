@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <<<<<<< HEAD
-I like to have a nap.
+A teenager living in Seoul, Korea
 
 ## Favorites
 
@@ -16,17 +16,4 @@ I like to have a nap.
 
 ### Contact me
 
-[gilbertkim@seouchristian.org](mailto:gilbertkim@seouchristian.or)
-=======
-Student of SCS
-
-### Favorites
-
-* Hobby: making miniatures
-* Game: League of Legends
-* Celebrity: Aoi Yu
-
-### Contact me
-
-[gilbertkim@seouchristian.org](gilbertkim@seouchristian.org)
->>>>>>> 7e00ee83d89d52323085ae9c70e99c751b9b3b21
+[gilbertkim@seouchristian.org](mailto:gilbertkim@seouchristian.org)
