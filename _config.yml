@@ -9,7 +9,7 @@ name: Gilbert Kim
 description: SCS Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-profile: https://c2.staticflickr.com/4/3431/3274669882_43b2013caf.jpg
+avatar: https://c2.staticflickr.com/4/3431/3274669882_43b2013caf.jpg
 
 #
 # Flags below are optional
@@ -18,8 +18,8 @@ profile: https://c2.staticflickr.com/4/3431/3274669882_43b2013caf.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: gilbertkim@seoulchristian.org
+  facebook: Gilbert
   flickr:
   github: barryclark/jekyll-now
   instagram:
